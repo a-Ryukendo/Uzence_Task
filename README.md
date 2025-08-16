@@ -15,8 +15,6 @@ A Next.js + TypeScript project using Tailwind CSS.
    npm install
    ```
 
-3. **Configure environment variables**
-   - Copy `.env.example` to `.env` and update values as needed.
 
 4. **Run the development server**
    ```
