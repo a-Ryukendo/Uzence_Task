@@ -21,8 +21,6 @@ A Next.js + TypeScript project using Tailwind CSS.
    npm run dev
    ```
 
-5. **Open in browser**
-   - Visit [http://localhost:3000](http://localhost:3000)
 
 ## Scripts
 
